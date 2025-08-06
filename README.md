@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- [도서 처음부터 제대로 배우는 SpringBoot](https://product.kyobobook.co.kr/detail/S000201866534) 번역
 - 🔭 I’m currently working on 프로그래밍 강의 - online [Git](https://spartacodingclub.kr/online/drill_git) / [풀스택 뉴스 큐레이션 웹서비스](https://www.classlion.net/class/detail/22)
 - 🌱 I’m currently learning 효율적인 학습, 전문성 높이기
 - 👯 I’m looking to collaborate on [김치 요리법](https://github.com/siyoungoh/kimchi-recipe-os) 프로젝트
